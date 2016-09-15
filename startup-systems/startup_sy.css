@@ -2,5 +2,16 @@ p
 {
   color: green;
   font-size: 50px;
-
+  display:block;
 }
+
+div 
+{
+	width: 100%;
+	background-color:black;
+	height:100px;
+	position:fixed;
+	color:white;
+	}
+
+
