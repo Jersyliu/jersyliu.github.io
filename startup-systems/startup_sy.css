@@ -5,7 +5,7 @@ p
   display:block;
 }
 
-div 
+div
 {
 	width: 100%;
 	background-color:black;
@@ -13,4 +13,10 @@ div
 	color:white;
 	}
 
+a
+{
+  text-decoration: none;
+  font-size: 30px;
 
+
+}
